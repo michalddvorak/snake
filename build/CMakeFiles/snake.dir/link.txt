@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/snake.dir/main.cpp.o CMakeFiles/snake.dir/utils/point.cpp.o CMakeFiles/snake.dir/utils/vec2.cpp.o CMakeFiles/snake.dir/game/game.cpp.o CMakeFiles/snake.dir/io/termio.cpp.o -o snake 
